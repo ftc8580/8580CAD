@@ -1,0 +1,6 @@
+GoBilda8mmRexBoreToRev5mmHexAxleAdapter.stl is ready to be sliced.
+The Fusion 360 project is included in case you want to customize the part. 
+
+This 3d printed piece can be used to adapt GoBilda 8mm Rex Bore components to the Rev 5mm hex axles. We needed this part in order to make our robot and wanted to share this model with you.
+
+We chose to print in PETG, but PLA should work. The key to success at a .20 mm resolution is to ensure the extrusion multiplier is precise for your filament, this is a very small piece. 
